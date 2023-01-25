@@ -1,0 +1,328 @@
+ <!--debut mail-->
+ <!-- <div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      <div class="contact-mf">
+        <div id="contact" class="box-shadow-full">
+          <div class="row">
+            <div class="col-md-6">
+              <div class="title-box-2">
+                <h5 class="title-left">
+                  Envoyer Un Mail
+                </h5>
+              </div>
+              <div>
+                  <form action="" method="post" role="form" class="contactForm">
+                  <div id="sendmessage">Votre Message A Bien Eté Envoyer. Merci!</div>
+                  <div id="errormessage"></div>
+                  <div class="row">
+                    <div class="col-md-12 mb-3">
+                      <div class="form-group">
+                        <input type="text" name="name" class="form-control" id="name" placeholder="Votre Nom Et Prénoms" data-rule="minlen:4" data-msg="Veuillez entrer au moins 4 caractéres" />
+                        <div class="validation"></div>
+                      </div>
+                    </div>
+                    <div class="col-md-12 mb-3">
+                      <div class="form-group">
+                        <input type="email" class="form-control" name="email" id="email" placeholder="Votre Email" data-rule="email" data-msg="Veuillez Inscrire une adresse mail valide" />
+                        <div class="validation"></div>
+                      </div>
+                    </div>
+                    <div class="col-md-12 mb-3">
+                        <div class="form-group">
+                          <input type="Ecrire" class="form-control" name="subject" id="subject" placeholder="Sujet" data-rule="minlen:4" data-msg="Veuillez saisir au moins 8 caractéres d'objet" />
+                          <div class="validation"></div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 mb-3">
+                      <div class="form-group">
+                        <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="S'il vous plaît écrivez quelque chose pour nous" placeholder="Message"></textarea>
+                        <div class="validation"></div>
+                      </div>
+                    </div>
+                    <div class="col-md-12">
+                      <button type="submit" class="button button-a button-big button-rouded">Envoyer</button>
+                    </div>
+                  </div>
+                </form>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="title-box-2 pt-4 pt-md-0">
+                <h5 class="title-left">
+                  Entrer En Contact
+                </h5>
+              </div>
+              <div class="more-info">
+                <p class="lead">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis dolorum dolorem soluta quidem
+                  expedita aperiam aliquid at.
+                  Totam magni ipsum suscipit amet? Autem nemo esse laboriosam ratione nobis
+                  mollitia inventore?
+                </p>
+                <ul class="list-ico">
+                  <li><span class="ion-ios-location"></span>1 Avenue De Verdun 92390</li>
+                  <li><span class="ion-ios-telephone"></span> (33) 0664146730</li>
+                  <li><span class="ion-email"></span>james.dan9392@gmail.com</li>
+                </ul>
+              </div>
+              <div class="socials">
+                <ul>
+                  <li><a href="https://fr-fr.facebook.com/"><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
+                  <li><a href="https://www.instagram.com/"><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
+                  <li><a href="https://twitter.com/"><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li>
+                  <li><a href="https://www.pinterest.fr/"><span class="ico-circle"><i class="ion-social-pinterest"></i></span></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div> -->
+<!--fin mail--> 
+ 
+ <!--/ Intro Skew End /-->
+<!-- <p><span class="title-s">Passion: </span> <span>Amateur Webdesign Languages HTML5.CSS.JS.PHP-MYSQL</span></p> -->
+  <!-- Début de la section A propos -->
+  <!-- <section id="about" class="about-mf sect-pt4 route">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="box-shadow-full">
+            <div class="row"> 
+              <div class="col-md-7">
+                <div class="row">
+                  <div class="col-sm-7 col-md-5">
+                    <div class="about-img">
+                      <img src="img/exosquellette-74.gif" class="img-fluid rounded b-shadow-a" alt="">
+                    </div>
+                  </div>
+                  <div class="col-sm-7 col-md-7">
+                    <div class="about-info">
+                      <p><span class="title-s">Nom: </span> <span>Steve Danner</span></p>
+                      
+                      <p><span class="title-s">Email: </span> <span>james.dan9392@gmail.com</span></p>
+                      <p><span class="title-s">Téléphone: </span> <span>(033) 064 146 730</span></p>
+                    </div>
+                  </div>
+                </div>
+                <div class="skill-mf">
+                  <p class="title-s">Technologies</p>
+                  <span>Fiabilité</span> <span class="pull-right">100%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 70%;" aria-valuenow="70" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>Design</span> <span class="pull-right">100%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>Remboursement</span> <span class="pull-right">100%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 30%" aria-valuenow="30" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>S.A.V</span> <span class="pull-right">Avec Condition</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 40%" aria-valuenow="40" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>Vente Sécuriser</span> <span class="pull-right">100%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div> -->
+                  <!-- <span>Illustrator</span> <span class="pull-right">70%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="0" aria-valuemin="70"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>3DS-MAX</span> <span class="pull-right">80%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="0" aria-valuemin="80"
+                      aria-valuemax="100"></div>
+                  </div> -->
+                <!-- </div>
+              </div> -->
+              <!-- <div class="col-md-5">
+                <div class="about-me pt-4 pt-md-0">
+                  <div class="title-box-2">
+                    <h5 class="title-left">
+                      A propos
+                    </h5>
+                  </div>
+                  <p class="lead">
+                    La technologie est l'étude des outils et des techniques. Le terme désigne les observations sur l'état de l'art aux diverses périodes historiques, en matière d'outils et de savoir-faire. Il comprend l'art, l'artisanat, les métiers, les sciences appliquées et éventuellement les connaissances.
+
+                    Par extension et abusivement, le mot désigne les systèmes ou méthodes d'organisation qui permettent les diverses technologies, ainsi que tous les domaines d'étude et les produits qui en résultent.
+                  </p>
+                  <p class="lead">
+                    Le mot technologie vient du grec technología (τεχνολογία) téchnē (τέχνη), « art », « compétence », ou « artisanat » et -logía (-λογία), l'étude d'une branche de la connaissance, d'une discipline1. Le Petit Robert indique que le mot est emprunté en 1656 au grec tardif tekhnologia « traité ou dissertation sur un art, exposé des règles d'un art », de tekhnê et logos. La notion a ensuite été utilisée en 1772 par un physicien allemand Johann Beckmann. Le terme s'applique soit généralement, soit à des domaines spécifiques, par exemple : « technologie de construction », « technologie médicale ».
+                  </p>
+                  <p class="lead">
+                    Le mot « technology » ne désignait pas pour Bigelow simplement les « arts utiles » mais suggérait en fait la convergence à restaurer à l’aube de la révolution industrielle entre les arts (tekhnê) et la science (logos) : une convergence compromise alors par l'angoisse naissante d'une impossible articulation des savoirs scientifiques se fragmentant avec leur diversification, et des arts nécessairement enfermés dans une tradition (ce que les membres du comité des arts et sciences américain nommaient « une routine empirique »). C'est ainsi que les premiers usages du terme dans le sens qu'en donna Bigelow précédèrent les bouleversements techniques du xixe siècle, et que l'usage du terme se répandit pendant la révolution industrielle.
+                  </p>
+                </div>
+               </div> -->
+            <!-- </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section> --> 
+
+   <!-- Fin du Bloc Illustrations Books ENI -->
+                <!-- </div>  -->
+                <!-- Fin ROW des blocs de compétences -->
+              <!-- </div>
+            </section> --> <!-- Ligne des blocs de compétences  -->
+                <!-- Bloc de compétence FORMATION -->
+                <!-- <div class="row"> -->
+                  <!-- <div class="col-md-4"> 
+                    <div class="service-box">
+                      <div class="service-ico">
+                        <span class="ico-circle"><i class="ion-laptop"></i></span>   
+                      </div>
+                      <div class="service-content">
+                        <h2 class="s-title">Logiciel</h2>
+                        <p class="s-description text-center">
+                          Photoshop. Illustrator. InDesign. Dreamweaver. Quarkexpress.Flash-MX.3DS3DS-MAX.Studio-8.
+                        </p>
+                      </div>
+                    </div>
+                  </div> -->
+                   <!-- Fin du bloc de compétence FORMATION -->
+                  <!-- Bloc de compétence WEB DESIGN -->
+          
+                  <!-- <div class="col-md-4"> 
+                    <div class="service-box">
+                      <div class="service-ico">
+                        <span class="ico-circle"><i class="ion-monitor"></i></span>
+                      </div>
+                      <div class="service-content">
+                        <h2 class="s-title">Web Design</h2>
+                        <p class="s-description text-center">
+                          Réalisations de sites institutionnels d'organismes et/ou associations. HTML-CSS,
+                          Javascript, jQuery, Bootstrap, PHP-MySql, JaVa.
+                        </p>
+                      </div>
+                    </div>
+                  </div>  -->
+                  <!-- Fin du bloc de compétence WEB DESIGN --><!-- Bloc de compétence WEB DEV -->
+                  <!-- <div class="col-md-4"> 
+                    <div class="service-box">
+                      <div class="service-ico">
+                        <span class="ico-circle"><i class="ion-code-working"></i></span>
+                      </div>
+                      <div class="service-content">
+                        <h2 class="s-title">Developpement Web</h2>
+                        <p class="s-description text-center">
+                          Réalisations De Site InterNet, Créations D'Animations 3DS-MAX, Créations De LoGo Interactif Ect..... 
+                        </p>
+                      </div>
+                    </div>
+                  </div>  -->
+                  <!-- Fin du bloc de compétence WEB DEV -->
+                  <!-- Bloc Illustrations Books ENI -->
+                  <!-- <div class="col-md-12"> 
+                    <div class="service-box">
+                      <div class="service-ico">
+                        <span class="ico-circle"><i class="fa fa-book"></i></span>
+                      </div>
+                      <div class="service-content">
+                        <h2 class="s-title">Langages Et Logiciel Maitrisés</h2>
+                        <img src="img/logos/html5.png" title="HTML-5" class="myMiniBook">
+                        <img src="img/logos/css3.png" title="CSS-3" class="myMiniBook">
+                        <img src="img/logos/javascript.png" title="JavaScript" class="myMiniBook">
+                        <img src="img/logos/jQuery-Base.png" title="jQuery" class="myMiniBook">
+                        <img src="img/logos/MySql.png" title="MySql" class="myMiniBook">
+                        <img src="img/logos/php.png" title="PhP" class="myMiniBook">
+                        <br>
+                        <img src="img/logos/bootstrap.png" title="BootStrap" class="myMiniBook">
+                        <img src="img/LogoJava.jpg" title="JaVa" class="myMiniBook">
+                        <img src="img/logos/3DS-MAX.png" title="3DS-MAX" class="myMiniBook">
+                        <img src="img/DreamWeaver.png" title="DreamWeaver" class="myMiniBook">
+                        <img src="img/PhotoShop.png" title="PhotoShop" class="myMiniBook">
+                        <img src="img/VSCode-logo.png" title="VSCode" class="myMiniBook">
+                        <img src="img/Flash-MX.jpg" title="Flash-MX" class="myMiniBook">
+                      
+                      </div>
+                    </div>
+
+
+  <div class="section-counter paralax-mf bg-image" style="background-image: url(img/exosquellette-74.gif)">
+    <div class="overlay-mf"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-3 col-lg-3">
+          <div class="counter-box counter-box pt-4 pt-md-0">
+            <div class="counter-ico">
+              <span class="ico-circle"><i class="ion-checkmark-round"></i></span>
+            </div>
+            <div class="counter-num">
+              <p class="counter">100</p>
+              <span class="counter-text">Paiement Sécuriser</span>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3 col-lg-3">
+          <div class="counter-box pt-4 pt-md-0">
+            <div class="counter-ico">
+              <span class="ico-circle"><i class="ion-ios-calendar-outline"></i></span>
+            </div>
+            <div class="counter-num">
+              <p class="counter">5</p>
+              <span class="counter-text">Années D'Expériences</span>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3 col-lg-3">
+          <div class="counter-box pt-4 pt-md-0">
+            <div class="counter-ico">
+              <span class="ico-circle"><i class="ion-ios-people"></i></span>
+            </div>
+            <div class="counter-num">
+              <p class="counter">100</p>
+              <span class="counter-text">Protections de Données clients</span>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3 col-lg-3">
+          <div class="counter-box pt-4 pt-md-0">
+            <div class="counter-ico">
+              <span class="ico-circle"><i class="ion-ios-people"></i></span>
+            </div>
+            <div class="counter-num">
+              <p class="counter">100</p>
+              <span class="counter-text">Eco-Services</span>
+            </div>
+          </div>
+        </div>
+        
+           
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <ul class="navbar-nav"> <!-- La liste UL LI des Items du menu -->
+    <li class="nav-item">
+      <!-- Le lien hypertexte pour Accueil -->
+      <a class="nav-link js-scroll active" href="#home">Accueil</a>
+    </li>
+    <!-- Le lien hypertexte pour la section A propos -->
+    <li class="nav-item">
+      <a class="nav-link js-scroll" href="#service">Boutique</a>
+    </li>
+    <!-- Le lien hypertexte pour la section Compétences -->
+    <li class="nav-item">
+      <a class="nav-link js-scroll" href="#service">Contact</a>
+    </li>
+   
+    
+  </ul> Fin de la liste UL LI des Items du menu
