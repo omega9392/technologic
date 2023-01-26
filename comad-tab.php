@@ -66,7 +66,7 @@
           </li> -->
 
           <li class="nav-item">
-            <a class="nav-link js-scroll" href="comad-pc.php">Vos Commandes</a>
+            <a class="nav-link js-scroll" href="comad-mc.php">Vos Commandes</a>
           </li>
           <!-- Le lien hypertexte pour la section Expériences -->
           <!-- <li class="nav-item">
