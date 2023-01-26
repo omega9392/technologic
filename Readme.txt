@@ -1,6 +1,7 @@
 Thanks for downloading this theme!
-Theme Name: 74SD-technologie
-Theme URL: https://www.74SD-technologie.fr
+
+Theme Name: DevFolio
+Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
 Author: BootstrapMade.com
 Author URL: https://bootstrapmade.com
 SHA256:v+r3EJ1BV+mdOcONtuRwNAAFHo42rcCxAZmqXqu/Ryc james.dan9392@gmail.com
