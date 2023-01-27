@@ -62,11 +62,11 @@
             <a class="nav-link js-scroll" href="#about">Qui-Suis-Je</a>
           </li> -->
           <!-- Le lien hypertexte pour la section Compétences -->
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a class="nav-link js-scroll" href="#service">La Boutique</a>
-          </li>
+          </li> -->
           <li class="nav-item">
-            <a class="nav-link js-scroll" href="comad-mc.php">Vos Commandes</a>
+            <a class="nav-link js-scroll" href="comad-pc.php">Vos Commandes</a>
           </li>
           <!-- Le lien hypertexte pour la section Expériences -->
           <!-- <li class="nav-item">
@@ -90,4 +90,3 @@
   </div>
   <!--fin html du mode DARK-->
   </nav> <!-- Fin du bloc DIV NavBar -->
-

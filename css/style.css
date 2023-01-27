@@ -1288,3 +1288,68 @@ footer .credits a {
     bottom: 15px;
   }
 }
+
+
+
+/*debut css du mode DARK*/
+    
+body.dark , nav.maindark{
+  background-color: #292c35;
+  transition: all .5s ease-in-out;
+
+padding-top: 15px;
+padding-bottom: 15px;
+}
+.navlinkscroll {
+color: #f0f1f1;
+font-size: 19px;
+text-transform: uppercase;
+}
+.checkbox {
+  opacity: 0;
+  position: absolute;
+}
+
+.label {
+  width: 50px;
+  height: 26px;
+  background-color:#111;
+  display: flex;
+  border-radius:50px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px;
+  position: relative;
+  transform: scale(1.5);
+}
+
+.ball {
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  border-radius: 50%;
+  transition: transform 0.2s linear;
+}
+
+/*  target the elemenent after the label*/
+.checkbox:checked + .label .ball{
+  transform: translateX(24px);
+}
+
+.fa-moon {
+  color: pink;
+}
+
+.fa-sun {
+  color: yellow;
+}
+
+
+.navlinkscroll{
+
+color: #cde1f8;
+}
+/*fin mode css DARK*/

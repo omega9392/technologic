@@ -84,7 +84,7 @@ include("inc/header.php");
                     <ul class="list-ico">
                       <li><span class="ion-ios-location"></span>1 Avenue De Verdun 92390</li>
                       <li><span class="ion-ios-telephone"></span> (33) 0664146730</li>
-                      <li><span class="ion-email"></span>james.dan9392@gmail.com</li>
+                      <li><span class="ion-email"></span><a href="mailto:james.dan9392@gmail.com">james.dan9392@gmail.com</a> </li>
                     </ul>
                   </div>
                   <div class="socials">

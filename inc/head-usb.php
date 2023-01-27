@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>https://www.74SD-technologie.fr</title>
+  <title>https://www.74SD-technologie.fr/comad-pc.html</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -24,7 +24,6 @@
 
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
-  
 
   <!-- =======================================================
     Theme Name: SD74-technologie
@@ -36,12 +35,12 @@
 
 <body id="page-top">
 
-  <!--/ Début du bloc de Navigation /-->
+<!--/ Début du bloc de Navigation /-->
   <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
     <!-- Le bloc principal CONTAINER -->
     <div class="container">
       <!-- Le bouton retour Haut de page -->
-      <a class="navbar-brand js-scroll" href="index.php"><img src="img/SD74LoGo.png" alt="74SD-logo" width="100" height="100"></a>
+      <a class="navbar-brand js-scroll" href="#page-top"><img src="img/SD74LoGo.png" alt="74SD-logo" width="100" height="100"></a>
       <!-- Dénition du type de menu Bootstrap utilisé -->
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
         aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
@@ -62,11 +61,12 @@
             <a class="nav-link js-scroll" href="#about">Qui-Suis-Je</a>
           </li> -->
           <!-- Le lien hypertexte pour la section Compétences -->
+          <!-- <li class="nav-item">
+            <a class="nav-link js-scroll" href="index.html">La Boutique</a>
+          </li> -->
+
           <li class="nav-item">
-            <a class="nav-link js-scroll" href="#service">La Boutique</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll" href="comad-mc.php">Vos Commandes</a>
+            <a class="nav-link js-scroll" href="comad-tab.php">Vos Commandes</a>
           </li>
           <!-- Le lien hypertexte pour la section Expériences -->
           <!-- <li class="nav-item">
@@ -79,8 +79,8 @@
         </ul> <!-- Fin de la liste UL LI des Items du menu --> 
       </div> <!-- Fin du bloc DIV type du menu Bootstrap -->
     </div> <!-- Fin du bloc DIV Container -->
-     <!--debut html mode DARK-->
-     <div>
+    <!--debut html mode DARK-->
+    <div>
       <input type="checkbox" class="checkbox" id="checkbox">
     <label for="checkbox" class="label">
       <i class="fas fa-moon"></i>
@@ -90,4 +90,3 @@
   </div>
   <!--fin html du mode DARK-->
   </nav> <!-- Fin du bloc DIV NavBar -->
-

@@ -87,7 +87,8 @@
 
   <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
   <div id="preloader"></div>
-
+  <script src="js/jquery-3.6.3.js"></script>
+  <script src="js/app.js"></script>
   <!-- JavaScript Libraries -->
   <script src="dist/external/jquery.js"></script>
   <script src="lib/jquery/jquery-migrate.min.js"></script>
