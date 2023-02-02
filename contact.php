@@ -33,31 +33,31 @@ include("inc/header.php");
                     </h5>
                   </div>
                   <div>
-                      <form action="" method="post" role="form" class="contactForm">
+                      <form action="traitement.php" method="post" role="form" class="contactForm">
                       <div id="sendmessage">Votre Message A Bien Eté Envoyer. Merci!</div>
                       <div id="errormessage"></div>
                       <div class="row">
                         <div class="col-md-12 mb-3">
                           <div class="form-group">
-                            <input type="text" name="name" class="form-control" id="name" placeholder="Votre Nom Et Prénoms" data-rule="minlen:4" data-msg="Veuillez entrer au moins 4 caractéres" />
+                            <input pattern="[a-zA-Z ]{2,10}" title="Veuillez écrire un nom valide" type="text" name="name" class="form-control" id="name" placeholder="Votre Nom Et Prénoms"/>
                             <div class="validation"></div>
                           </div>
                         </div>
                         <div class="col-md-12 mb-3">
                           <div class="form-group">
-                            <input type="email" class="form-control" name="email" id="email" placeholder="Votre Email" data-rule="email" data-msg="Veuillez Inscrire une adresse mail valide" />
+                            <input  title="Veuillez entrée une adresse valide"  type="email" class="form-control" name="email" id="email" placeholder="Votre Email" />
                             <div class="validation"></div>
                           </div>
                         </div>
                         <div class="col-md-12 mb-3">
                             <div class="form-group">
-                              <input type="Ecrire" class="form-control" name="subject" id="subject" placeholder="Sujet" data-rule="minlen:4" data-msg="Veuillez saisir au moins 8 caractéres d'objet" />
+                              <input pattern="[a-zA-Z ]{20,60}" title="Veuillez écrire un minum de 20 caractéres"  type="text" class="form-control" name="subject" id="subject" placeholder="Sujet"  />
                               <div class="validation"></div>
                             </div>
                         </div>
                         <div class="col-md-12 mb-3">
                           <div class="form-group">
-                            <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="S'il vous plaît écrivez quelque chose pour nous" placeholder="Message"></textarea>
+                            <textarea maxlength="100" minlength="10" title="Veuillez écrire un message de minimum de 10 caractéres"  class="form-control" name="message" rows="5" data-rule="required" placeholder="Message"></textarea>
                             <div class="validation"></div>
                           </div>
                         </div>
