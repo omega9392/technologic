@@ -52,7 +52,7 @@
       <div class="row">
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/tablette1-74SD.gif" data-lightbox="gallery-mf">
+            <a href="img/tablette1-74SD.gif" data-lightbox="gallery-mf" title="Tablettes-74SD  250,00€">
               <div class="work-img">
                 <img src="img/tablette1-74SD.gif" alt="" class="img-fluid">
               </div>
@@ -76,7 +76,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/tablette2-74SD.gif" data-lightbox="gallery-mf">
+            <a href="img/tablette2-74SD.gif" data-lightbox="gallery-mf" title="Tablettes-74SD  350,00€">
               <div class="work-img">
                 <img src="img/tablette2-74SD.gif" alt="" class="img-fluid">
               </div>
@@ -100,7 +100,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/tablette3-74SD.gif" data-lightbox="gallery-mf">
+            <a href="img/tablette3-74SD.gif" data-lightbox="gallery-mf" title="Tablettes-74SD  380,00€">
               <div class="work-img">
                 <img src="img/tablette3-74SD.gif"  alt="" class="img-fluid img3">
               </div>
@@ -124,7 +124,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/tablette4-74SD.gif" data-lightbox="gallery-mf">
+            <a href="img/tablette4-74SD.gif" data-lightbox="gallery-mf" title="Tablettes-74SD  260,00€">
               <div class="work-img">
                 <img src="img/tablette4-74SD.gif" alt="" class="img-fluid">
               </div>
@@ -148,7 +148,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/tablette5-74SD.gif" data-lightbox="gallery-mf">
+            <a href="img/tablette5-74SD.gif" data-lightbox="gallery-mf" title="Tablettes-74SD  180,00€">
               <div class="work-img">
                 <img src="img/tablette5-74SD.gif" alt="" class="img-fluid img4">
               </div>
@@ -172,7 +172,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/tablette6-74SD.gif" data-lightbox="gallery-mf">
+            <a href="img/tablette6-74SD.gif" data-lightbox="gallery-mf" title="Tablettes-74SD  62,99€">
               <div class="work-img">
                 <img src="img/tablette6-74SD.gif" alt="" class="img-fluid">
               </div>

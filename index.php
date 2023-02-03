@@ -63,7 +63,7 @@
       <div class="row">
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/MONTRE_CONNECTEE-74.webp" data-lightbox="gallery-mf">
+            <a href="img/MONTRE_CONNECTEE-74.webp" data-lightbox="gallery-mf" title="Montre-connectées-74SD 99,99€">
               <div class="work-img">
                 <img src="img/MONTRE_CONNECTEE-74.webp" alt="" class="img-fluid">
               </div>
@@ -87,7 +87,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/montre74-coneX.webp" data-lightbox="gallery-mf">
+            <a href="img/montre74-coneX.webp" data-lightbox="gallery-mf" title="Montre-connectées-74SD 250,00€">
               <div class="work-img">
                 <img src="img/montre74-coneX.webp" alt="" class="img-fluid">
               </div>
@@ -111,7 +111,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/montre-74conex.webp" data-lightbox="gallery-mf">
+            <a href="img/montre-74conex.webp" data-lightbox="gallery-mf" title="Montre-connectées-74SD 89,00€">
               <div class="work-img">
                 <img src="img/montre-74conex.webp"  alt="" class="img-fluid img3">
               </div>
@@ -135,7 +135,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/montre74-SD.gif" data-lightbox="gallery-mf">
+            <a href="img/montre74-SD.gif" data-lightbox="gallery-mf" title="Montre-connectées-74SD 120,00€">
               <div class="work-img">
                 <img src="img/montre74-SD.gif" alt="" class="img-fluid">
               </div>
@@ -159,7 +159,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/montre-conex74.gif" data-lightbox="gallery-mf">
+            <a href="img/montre-conex74.gif" data-lightbox="gallery-mf" title="Montre-connectées-74SD 480,00€">
               <div class="work-img">
                 <img src="img/montre-conex74.gif" alt="" class="img-fluid img4">
               </div>
@@ -183,7 +183,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/montre74-deeeno.gif" data-lightbox="gallery-mf">
+            <a href="img/montre74-deeeno.gif" data-lightbox="gallery-mf" title="Montre-connectées-74SD 350,00€">
               <div class="work-img">
                 <img src="img/montre74-deeeno.gif" alt="" class="img-fluid">
               </div>
@@ -230,7 +230,7 @@
         <div class="row">
           <div class="col-md-4">
             <div class="work-box">
-              <a href="img/PC-74-1.jpg" data-lightbox="gallery-mf">
+              <a href="img/PC-74-1.jpg" data-lightbox="gallery-mf"  title="Ordinateurs-74SD  899,99€">
                 <div class="work-img">
                   <img src="img/PC-74-1.jpg" alt="" class="img-fluid">
                 </div>
@@ -254,7 +254,7 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="img/PC-74-2.jpg" data-lightbox="gallery-mf">
+              <a href="img/PC-74-2.jpg" data-lightbox="gallery-mf"  title="Ordinateurs-74SD  1250,00€">
                 <div class="work-img">
                   <img src="img/PC-74-2.jpg" alt="" class="img-fluid">
                 </div>
@@ -278,7 +278,7 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="img/PC-74-3.jpg" data-lightbox="gallery-mf">
+              <a href="img/PC-74-3.jpg" data-lightbox="gallery-mf"  title="Ordinateurs-74SD  1200,00€">
                 <div class="work-img">
                   <img src="img/PC-74-3.jpg"  alt="" class="img-fluid img3">
                 </div>
@@ -302,7 +302,7 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="img/PC-74-4.jpg" data-lightbox="gallery-mf">
+              <a href="img/PC-74-4.jpg" data-lightbox="gallery-mf"  title="Ordinateurs-74SD  1100,00€">
                 <div class="work-img">
                   <img src="img/PC-74-4.jpg" alt="" class="img-fluid">
                 </div>
@@ -326,7 +326,7 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="img/PC-74-5.jpg" data-lightbox="gallery-mf">
+              <a href="img/PC-74-5.jpg" data-lightbox="gallery-mf"  title="Ordinateurs-74SD  950,00€">
                 <div class="work-img">
                   <img src="img/PC-74-5.jpg" alt="" class="img-fluid img4">
                 </div>
@@ -350,7 +350,7 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="img/PC-74-6.jpg" data-lightbox="gallery-mf">
+              <a href="img/PC-74-6.jpg" data-lightbox="gallery-mf"  title="Ordinateurs-74SD  1300,00€">
                 <div class="work-img">
                   <img src="img/PC-74-6.jpg" alt="" class="img-fluid">
                 </div>
@@ -398,57 +398,9 @@
         <div class="row">
           <div class="col-md-4">
             <div class="work-box">
-              <a href="img/baterie-74.webp" data-lightbox="gallery-mf">
+              <a href="img/baterie-74.webp" data-lightbox="gallery-mf" title="batterie-74SD 25,00€">
                 <div class="work-img">
                   <img src="img/baterie-74.webp" alt="" class="img-fluid">
-                </div>
-                <div class="work-content">
-                  <div class="row">
-                    <div class="col-sm-8">
-                      <h2 class="w-title">à 20,00€ seulement</h2>
-                      <div class="w-more">
-                        <span class="w-ctegory">Art Design</span> / <span class="w-date">Copyright ©Décembre-2022-2023</span>
-                      </div>
-                    </div>
-                    <div class="col-sm-4">
-                      <div class="w-like">
-                        <span class="ion-ios-plus-outline"></span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </a>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="work-box">
-              <a href="img/Batterie-Magn1-74.webp" data-lightbox="gallery-mf">
-                <div class="work-img">
-                  <img src="img/Batterie-Magn1-74.webp" alt="" class="img-fluid">
-                </div>
-                <div class="work-content">
-                  <div class="row">
-                    <div class="col-sm-8">
-                      <h2 class="w-title">à 15,00€ seulement</h2>
-                      <div class="w-more">
-                        <span class="w-ctegory">Art Design</span> / <span class="w-date">Copyright ©Décembre-2022-2023</span>
-                      </div>
-                    </div>
-                    <div class="col-sm-4">
-                      <div class="w-like">
-                        <span class="ion-ios-plus-outline"></span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </a>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="work-box">
-              <a href="img/Batterie-Magn2-74.webp" data-lightbox="gallery-mf">
-                <div class="work-img">
-                  <img src="img/Batterie-Magn2-74.webp"  alt="" class="img-fluid img3">
                 </div>
                 <div class="work-content">
                   <div class="row">
@@ -470,14 +422,62 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="img/batterie-solar-74.jpg" data-lightbox="gallery-mf">
+              <a href="img/Batterie-Magn1-74.webp" data-lightbox="gallery-mf" title="batterie-74SD 50,00€">
+                <div class="work-img">
+                  <img src="img/Batterie-Magn1-74.webp" alt="" class="img-fluid">
+                </div>
+                <div class="work-content">
+                  <div class="row">
+                    <div class="col-sm-8">
+                      <h2 class="w-title">à 50,00€ seulement</h2>
+                      <div class="w-more">
+                        <span class="w-ctegory">Art Design</span> / <span class="w-date">Copyright ©Décembre-2022-2023</span>
+                      </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="w-like">
+                        <span class="ion-ios-plus-outline"></span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="img/Batterie-Magn2-74.webp" data-lightbox="gallery-mf" title="batterie-74SD 89,00€">
+                <div class="work-img">
+                  <img src="img/Batterie-Magn2-74.webp"  alt="" class="img-fluid img3">
+                </div>
+                <div class="work-content">
+                  <div class="row">
+                    <div class="col-sm-8">
+                      <h2 class="w-title">à 89,00€ seulement</h2>
+                      <div class="w-more">
+                        <span class="w-ctegory">Art Design</span> / <span class="w-date">Copyright ©Décembre-2022-2023</span>
+                      </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="w-like">
+                        <span class="ion-ios-plus-outline"></span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="img/batterie-solar-74.jpg" data-lightbox="gallery-mf" title="batterie-74SD  60,00€">
                 <div class="work-img">
                   <img src="img/batterie-solar-74.jpg" alt="" class="img-fluid">
                 </div>
                 <div class="work-content">
                   <div class="row">
                     <div class="col-sm-8">
-                      <h2 class="w-title">à 30,00€ seulement</h2>
+                      <h2 class="w-title">à  60,00€ seulement</h2>
                       <div class="w-more">
                         <span class="w-ctegory">Art Design</span> / <span class="w-date">Copyright ©Décembre-2022-2023</span>
                       </div>
@@ -494,14 +494,14 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="img/Batterie-MagPerso-74.webp" data-lightbox="gallery-mf">
+              <a href="img/Batterie-MagPerso-74.webp" data-lightbox="gallery-mf" title="batterie-74SD  80,00€">
                 <div class="work-img">
                   <img src="img/Batterie-MagPerso-74.webp" alt="" class="img-fluid img4">
                 </div>
                 <div class="work-content">
                   <div class="row">
                     <div class="col-sm-8">
-                      <h2 class="w-title">à 15,00€ seulement et personnalisable</h2>
+                      <h2 class="w-title">à  80,00€ seulement et personnalisable</h2>
                       <div class="w-more">
                         <span class="w-ctegory">Art Design</span> / <span class="w-date">Copyright ©Décembre-2022-2023</span>
                       </div>
@@ -518,14 +518,14 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="img/Batterie-Magn3-74.webp" data-lightbox="gallery-mf">
-                <div class="work-img">
+              <a href="img/Batterie-Magn3-74.webp" data-lightbox="gallery-mf" title="batterie-74SD 45,00€>
+              <div class="work-img">
                   <img src="img/Batterie-Magn3-74.webp" alt="" class="img-fluid">
                 </div>
                 <div class="work-content">
                   <div class="row">
                     <div class="col-sm-8">
-                      <h2 class="w-title">à 15,00€ seulement</h2>
+                      <h2 class="w-title">à 45,00€ seulement</h2>
                       <div class="w-more">
                         <span class="w-ctegory">Art Design</span> / <span class="w-date">Copyright ©Décembre-2022-2023</span>
                       </div>
@@ -565,7 +565,7 @@
       <div class="row">
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/port-USB-74.webp" data-lightbox="gallery-mf">
+            <a href="img/port-USB-74.webp" data-lightbox="gallery-mf" title="Port-USB-74SD  45,00€">
               <div class="work-img">
                 <img src="img/port-USB-74.webp" alt="" class="img-fluid">
               </div>
@@ -589,7 +589,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/port-usb1-74.webp" data-lightbox="gallery-mf">
+            <a href="img/port-usb1-74.webp" data-lightbox="gallery-mf" title="Port-USB-74SD  30,00€">
               <div class="work-img">
                 <img src="img/port-usb1-74.webp" alt="" class="img-fluid">
               </div>
@@ -613,7 +613,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/port-usb2-74.webp" data-lightbox="gallery-mf">
+            <a href="img/port-usb2-74.webp" data-lightbox="gallery-mf" title="Port-USB-74SD  50,00€">
               <div class="work-img">
                 <img src="img/port-usb2-74.webp"  alt="" class="img-fluid img3">
               </div>
@@ -637,7 +637,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/port-usb3-74.webp" data-lightbox="gallery-mf">
+            <a href="img/port-usb3-74.webp" data-lightbox="gallery-mf" title="Port-USB-74SD  45,00€">
               <div class="work-img">
                 <img src="img/port-usb3-74.webp" alt="" class="img-fluid">
               </div>
@@ -661,7 +661,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/port-usb4-74.webp" data-lightbox="gallery-mf">
+            <a href="img/port-usb4-74.webp" data-lightbox="gallery-mf" title="Port-USB-74SD  60,00€">
               <div class="work-img">
                 <img src="img/port-usb4-74.webp" alt="" class="img-fluid img4">
               </div>
@@ -685,7 +685,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/port-usb6-74.webp" data-lightbox="gallery-mf">
+            <a href="img/port-usb6-74.webp" data-lightbox="gallery-mf" title="Port-USB-74SD  75,00€">
               <div class="work-img">
                 <img src="img/port-usb6-74.webp" alt="" class="img-fluid">
               </div>
@@ -731,7 +731,7 @@
     <div class="row">
       <div class="col-md-4">
         <div class="work-box">
-          <a href="img/tablette1-74SD.gif" data-lightbox="gallery-mf">
+          <a href="img/tablette1-74SD.gif" data-lightbox="gallery-mf" title="Tablettes-74SD  250,00€">
             <div class="work-img">
               <img src="img/tablette1-74SD.gif" alt="" class="img-fluid">
             </div>
@@ -755,7 +755,7 @@
       </div>
       <div class="col-md-4">
         <div class="work-box">
-          <a href="img/tablette2-74SD.gif" data-lightbox="gallery-mf">
+          <a href="img/tablette2-74SD.gif" data-lightbox="gallery-mf" title="Tablettes-74SD  350,00€">
             <div class="work-img">
               <img src="img/tablette2-74SD.gif" alt="" class="img-fluid">
             </div>
@@ -779,7 +779,7 @@
       </div>
       <div class="col-md-4">
         <div class="work-box">
-          <a href="img/tablette3-74SD.gif" data-lightbox="gallery-mf">
+          <a href="img/tablette3-74SD.gif" data-lightbox="gallery-mf" title="Tablettes-74SD  380,00€">
             <div class="work-img">
               <img src="img/tablette3-74SD.gif"  alt="" class="img-fluid img3">
             </div>
@@ -803,7 +803,7 @@
       </div>
       <div class="col-md-4">
         <div class="work-box">
-          <a href="img/tablette4-74SD.gif" data-lightbox="gallery-mf">
+          <a href="img/tablette4-74SD.gif" data-lightbox="gallery-mf" title="Tablettes-74SD  260,00€">
             <div class="work-img">
               <img src="img/tablette4-74SD.gif" alt="" class="img-fluid">
             </div>
@@ -827,7 +827,7 @@
       </div>
       <div class="col-md-4">
         <div class="work-box">
-          <a href="img/tablette5-74SD.gif" data-lightbox="gallery-mf">
+          <a href="img/tablette5-74SD.gif" data-lightbox="gallery-mf" title="Tablettes-74SD  180,00€">
             <div class="work-img">
               <img src="img/tablette5-74SD.gif" alt="" class="img-fluid img4">
             </div>
@@ -851,7 +851,7 @@
       </div>
       <div class="col-md-4">
         <div class="work-box">
-          <a href="img/tablette6-74SD.gif" data-lightbox="gallery-mf">
+          <a href="img/tablette6-74SD.gif" data-lightbox="gallery-mf" title="Tablettes-74SD  62,99€">
             <div class="work-img">
               <img src="img/tablette6-74SD.gif" alt="" class="img-fluid">
             </div>

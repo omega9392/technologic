@@ -51,7 +51,7 @@
       <div class="row">
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/MONTRE_CONNECTEE-74.webp" data-lightbox="gallery-mf">
+            <a href="img/MONTRE_CONNECTEE-74.webp" data-lightbox="gallery-mf" title="Montre-connectées-74SD 99,99€">
               <div class="work-img">
                 <img src="img/MONTRE_CONNECTEE-74.webp" alt="" class="img-fluid">
               </div>
@@ -75,7 +75,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/montre74-coneX.webp" data-lightbox="gallery-mf">
+            <a href="img/montre74-coneX.webp" data-lightbox="gallery-mf" title="Montre-connectées-74SD  250,00€">
               <div class="work-img">
                 <img src="img/montre74-coneX.webp" alt="" class="img-fluid">
               </div>
@@ -99,7 +99,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/montre-74conex.webp" data-lightbox="gallery-mf">
+            <a href="img/montre-74conex.webp" data-lightbox="gallery-mf" title="Montre-connectées-74SD  89,00€">
               <div class="work-img">
                 <img src="img/montre-74conex.webp"  alt="" class="img-fluid img3">
               </div>
@@ -123,7 +123,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/montre74-SD.gif" data-lightbox="gallery-mf">
+            <a href="img/montre74-SD.gif" data-lightbox="gallery-mf" title="Montre-connectées-74SD  120,00€">
               <div class="work-img">
                 <img src="img/montre74-SD.gif" alt="" class="img-fluid">
               </div>
@@ -147,14 +147,14 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/montre-conex74.gif" data-lightbox="gallery-mf">
+            <a href="img/montre-conex74.gif" data-lightbox="gallery-mf" title="Montre-connectées-74SD  80,00€">
               <div class="work-img">
                 <img src="img/montre-conex74.gif" alt="" class="img-fluid img4">
               </div>
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">à 80,00€ seulement</h2>
+                    <h2 class="w-title">à 480,00€€ seulement</h2>
                     <div class="w-more">
                       <span class="w-ctegory">Art Design</span> / <span class="w-date">Copyright ©Décembre-2022-2023</span>
                     </div>
@@ -171,14 +171,14 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/montre74-deeeno.gif" data-lightbox="gallery-mf">
+            <a href="img/montre74-deeeno.gif" data-lightbox="gallery-mf" title="Montre-connectées-74SD  150,00€">
               <div class="work-img">
                 <img src="img/montre74-deeeno.gif" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">à 150,00€ seulement</h2>
+                    <h2 class="w-title">à 350,00€ seulement</h2>
                     <div class="w-more">
                       <span class="w-ctegory">Art Design</span> / <span class="w-date">Copyright ©Décembre-2022-2023</span>
                     </div>

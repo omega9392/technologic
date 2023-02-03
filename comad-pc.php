@@ -51,7 +51,7 @@
       <div class="row">
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/PC-74-1.jpg" data-lightbox="gallery-mf">
+            <a href="img/PC-74-1.jpg" data-lightbox="gallery-mf" title="Ordinateurs-74SD  899,99€">
               <div class="work-img">
                 <img src="img/PC-74-1.jpg" alt="" class="img-fluid">
               </div>
@@ -75,7 +75,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/PC-74-2.jpg" data-lightbox="gallery-mf">
+            <a href="img/PC-74-2.jpg" data-lightbox="gallery-mf" title="Ordinateurs-74SD  1250,00€">
               <div class="work-img">
                 <img src="img/PC-74-2.jpg" alt="" class="img-fluid">
               </div>
@@ -99,7 +99,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/PC-74-3.jpg" data-lightbox="gallery-mf">
+            <a href="img/PC-74-3.jpg" data-lightbox="gallery-mf" title="Ordinateurs-74SD  1200,00€">
               <div class="work-img">
                 <img src="img/PC-74-3.jpg"  alt="" class="img-fluid img3">
               </div>
@@ -123,7 +123,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/PC-74-4.jpg" data-lightbox="gallery-mf">
+            <a href="img/PC-74-4.jpg" data-lightbox="gallery-mf" title="Ordinateurs-74SD  1100,00€">
               <div class="work-img">
                 <img src="img/PC-74-4.jpg" alt="" class="img-fluid">
               </div>
@@ -147,7 +147,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/PC-74-5.jpg" data-lightbox="gallery-mf">
+            <a href="img/PC-74-5.jpg" data-lightbox="gallery-mf" title="Ordinateurs-74SD  950,00€">
               <div class="work-img">
                 <img src="img/PC-74-5.jpg" alt="" class="img-fluid img4">
               </div>
@@ -171,7 +171,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/PC-74-6.jpg" data-lightbox="gallery-mf">
+            <a href="img/PC-74-6.jpg" data-lightbox="gallery-mf" title="Ordinateurs-74SD  1300,00€">
               <div class="work-img">
                 <img src="img/PC-74-6.jpg" alt="" class="img-fluid">
               </div>

@@ -52,7 +52,7 @@
       <div class="row">
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/baterie-74.webp" data-lightbox="gallery-mf">
+            <a href="img/baterie-74.webp" data-lightbox="gallery-mf" title="batterie-74SD 25,00€">
               <div class="work-img">
                 <img src="img/baterie-74.webp" alt="" class="img-fluid">
               </div>
@@ -76,7 +76,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/Batterie-Magn1-74.webp" data-lightbox="gallery-mf">
+            <a href="img/Batterie-Magn1-74.webp" data-lightbox="gallery-mf" title="batterie-74SD 50,00€">
               <div class="work-img">
                 <img src="img/Batterie-Magn1-74.webp" alt="" class="img-fluid">
               </div>
@@ -100,7 +100,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/Batterie-Magn2-74.webp" data-lightbox="gallery-mf">
+            <a href="img/Batterie-Magn2-74.webp" data-lightbox="gallery-mf" title="batterie-74SD 89,00€">
               <div class="work-img">
                 <img src="img/Batterie-Magn2-74.webp"  alt="" class="img-fluid img3">
               </div>
@@ -124,7 +124,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/batterie-solar-74.jpg" data-lightbox="gallery-mf">
+            <a href="img/batterie-solar-74.jpg" data-lightbox="gallery-mf" title="batterie-74SD 60,00€">
               <div class="work-img">
                 <img src="img/batterie-solar-74.jpg" alt="" class="img-fluid">
               </div>
@@ -148,7 +148,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/Batterie-MagPerso-74.webp" data-lightbox="gallery-mf">
+            <a href="img/Batterie-MagPerso-74.webp" data-lightbox="gallery-mf" title="batterie-74SD 80,00€">
               <div class="work-img">
                 <img src="img/Batterie-MagPerso-74.webp" alt="" class="img-fluid img4">
               </div>
@@ -172,7 +172,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/Batterie-Magn3-74.webp" data-lightbox="gallery-mf">
+            <a href="img/Batterie-Magn3-74.webp" data-lightbox="gallery-mf" title="batterie-74SD 45,00€">
               <div class="work-img">
                 <img src="img/Batterie-Magn3-74.webp" alt="" class="img-fluid">
               </div>
