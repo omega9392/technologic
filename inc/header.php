@@ -58,9 +58,9 @@
             <a class="nav-link js-scroll active" href="index.php">Accueil</a>
           </li>
           <!-- Le lien hypertexte pour la section A propos -->
-          <!-- <li class="nav-item">
-            <a class="nav-link js-scroll" href="#about">Qui-Suis-Je</a>
-          </li> -->
+          <li class="nav-item">
+            <a class="nav-link js-scroll" href="liste-contact.php">Liste-Contact</a>
+          </li>
           <!-- Le lien hypertexte pour la section Compétences -->
           <li class="nav-item">
             <a class="nav-link js-scroll" href="#service">La Boutique</a>

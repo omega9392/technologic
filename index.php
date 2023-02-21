@@ -518,7 +518,7 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="img/Batterie-Magn3-74.webp" data-lightbox="gallery-mf" title="batterie-74SD 45,00€>
+              <a href="img/Batterie-Magn3-74.webp" data-lightbox="gallery-mf" title="batterie-74SD 45,00€">
               <div class="work-img">
                   <img src="img/Batterie-Magn3-74.webp" alt="" class="img-fluid">
                 </div>
@@ -892,9 +892,10 @@
               </div>
               <div class="content-test">
                 <p class="description lead">
-                  Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Lorem ipsum dolor sit amet,
-                  consectetur adipiscing elit.
-                </p>
+                Deux choses sont infinies : l'Univers et la bêtise humaine. Mais en ce qui concerne l'Univers, 
+                je n'en ai pas encore acquis la certitude absolue.
+                Albert Einstein
+              </p>
                 <span class="comit"><i class="fa fa-quote-right"></i></span>
               </div>
             </div>
@@ -905,9 +906,9 @@
               </div>
               <div class="content-test">
                 <p class="description lead">
-                  Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Lorem ipsum dolor sit amet,
-                  consectetur adipiscing elit.
-                </p>
+                Un problème sans solution est un problème mal posé.
+                Albert Einstein
+              </p>
                 <span class="comit"><i class="fa fa-quote-right"></i></span>
               </div>
             </div>

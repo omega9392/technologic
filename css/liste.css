@@ -1,0 +1,39 @@
+table {
+    margin-left: 2%;
+    margin-top: 21px;
+    border: 2px solid rgb(55, 52, 57);
+    background: burlywood;
+    color: white;
+    font-size: 20px;
+    width: 96%;
+    height: 50%;
+}
+.liste {
+    /* margin-top: 65px; */
+    /* margin-left: 45%; */
+    font-size: 30px;
+    font-family: georgia;
+    background-color: black;
+    justify-content: space-around;
+}
+a{
+    color: #D9870E;
+}
+.copyr {
+    text-align: center;
+    font-size: 30px;
+    font-family: georgia;
+    color: darkgrey;
+    margin-top: 450px;
+}
+nav {
+    display: flex;
+    justify-content: left;
+}
+nav a {
+    margin-left: 80px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    text-decoration: none;
+}
+

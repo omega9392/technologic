@@ -33,7 +33,7 @@ include("inc/header.php");
                     </h5>
                   </div>
                   <div>
-                      <form action="traitement.php" method="post" role="form" class="contactForm">
+                      <form action="" method="post" role="form" class="contactForm">
                       <div id="sendmessage">Votre Message A Bien Eté Envoyer. Merci!</div>
                       <div id="errormessage"></div>
                       <div class="row">
@@ -57,13 +57,14 @@ include("inc/header.php");
                         </div>
                         <div class="col-md-12 mb-3">
                           <div class="form-group">
-                            <textarea maxlength="100" minlength="10" title="Veuillez écrire un message de minimum de 10 caractéres"  class="form-control" name="message" rows="5" data-rule="required" placeholder="Message"></textarea>
+                            <textarea maxlength="200" minlength="20" title="Veuillez écrire un message de minimum de 20 caractéres"  class="form-control" name="message" rows="5" data-rule="required" placeholder="Message"></textarea>
                             <div class="validation"></div>
                           </div>
                         </div>
                         <div class="col-md-12">
-                          <button type="submit" class="button button-a button-big button-rouded">Envoyer</button>
+                          <button type="submit" class="button button-a button-big button-rouded">Envoyer</a></button>
                         </div>
+                        
                       </div>
                     </form>
                   </div>
@@ -76,10 +77,9 @@ include("inc/header.php");
                   </div>
                   <div class="more-info">
                     <p class="lead">
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis dolorum dolorem soluta quidem
-                      expedita aperiam aliquid at.
-                      Totam magni ipsum suscipit amet? Autem nemo esse laboriosam ratione nobis
-                      mollitia inventore?
+                    La technologie peut être utilisée à différentes fins : pour faciliter la communication entre les acteurs, 
+                    pour faire circuler l’information utile aux activités économiques en zones rurales, 
+                    pour améliorer des services existants, ou encore pour en créer de nouveaux.
                     </p>
                     <ul class="list-ico">
                       <li><span class="ion-ios-location"></span>1 Avenue De Verdun 92390</li>
@@ -102,6 +102,8 @@ include("inc/header.php");
         </div>
       </div>
     </div>
+
 <?php
+include("traitement.php");
 include("inc/footer.php");
 ?>
