@@ -73,12 +73,13 @@
     
     <!-- Custom styles for this template -->
     <link href="offcanvas-navbar-74SD/dist-css/offcanvas-navbar.css" rel="stylesheet">
+    <link href="offcanvas-navbar-74SD/dist-css/conect.css" rel="stylesheet">
   </head>
   <body class="bg-light">
     
 <nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark" aria-label="Main navigation">
   <div class="container-fluid">
-    <a class="navbar-brand" href="index.php">Admin-Liste-Contact</a>
+    <a class="navbar-brand" href="index.php">Retour a l'Accueil</a>
     <button class="navbar-toggler p-0 border-0" type="button" id="navbarSideCollapse" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -86,17 +87,10 @@
     <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Tableau de bord</a>
+          <a class="nav-link active" aria-current="page" href="liste-contact.php">Liste-Contact</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="index.php">Accueil</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Produits</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="contact.php">Contact</a>
-        </li>
+        
+        
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">Réseaux sociaux</a>
           <ul class="dropdown-menu">
